@@ -1,7 +1,7 @@
 package io.git.welldefassio.mscartoes.application.service;
 
 import io.git.welldefassio.mscartoes.domain.ClienteCartao;
-import io.git.welldefassio.mscartoes.repositories.ClienteCartaoRepository;
+import io.git.welldefassio.mscartoes.infra.repositories.ClienteCartaoRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

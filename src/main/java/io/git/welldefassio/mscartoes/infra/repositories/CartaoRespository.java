@@ -1,4 +1,4 @@
-package io.git.welldefassio.mscartoes.repositories;
+package io.git.welldefassio.mscartoes.infra.repositories;
 
 import io.git.welldefassio.mscartoes.domain.Cartao;
 import org.springframework.data.jpa.repository.JpaRepository;
